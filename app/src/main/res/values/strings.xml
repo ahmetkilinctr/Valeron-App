@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Valeron</string>
+    <string name="txtSite"><a href="http://www.valeron.com.tr">Detaylı Bilgi İçin</a></string>
+    <string name="txtSiteProducts"><a href="http://www.linens.com.tr/search?q=valeron">Daha Fazla Valeron Ürünü İçin</a></string>
+    <string name="productSKULabel">Malzeme Kodu: </string>
+    <string name="productNameLabel">Ürün Adı: </string>
+    <string name="productColorLabel">Renk: </string>
+    <string name="productPriceLabel">Fiyat: </string>
+    <string name="productSizeDetailLabel">Ürün Ebat Detay: </string>
+</resources>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_431a87e69074f94744841d608628a3ca91aabc8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_556976b5cbeff98785e3663f423bf4184aed4e18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ed6469c7c171d25bef043158cf7c00942ba98247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_8edf25ea102836270b25fa118c5620b101944bd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_fd1021f5b0a120adbdd83e2ab0b919c32acc7e56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bd469556cf2bb1fea7ff985b104084ee95eb89b">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e4389df9b8ede96ffb5e582c21e781676b43b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_eb06705eeb5b033544eaa105f22bce3efdfc715f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3d49304e4a0565b2c437cac66b5cbf7935d51c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3011e23cdd6f8a1e44650cb4b427cd6aa8cc839a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_077acd7821a0d945ade1deb9bb20d5022216465f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_892253359435cd01173152e193d6602a1fa7c051\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_86806b0aee09167412dc9ebb468ba0303e77b1bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_4e8c541b54c2d6d0ec49cbf786d9dd79bc885688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2db8bcd7829cbf3d1985e586bb0b7313057c9180\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_1865b1edb0f979c665b89a0750cd10182aa6eb91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_661f7d8e9e6cac2be82d76b79232afbf3d337cf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_9f7ac74813e727e1138d6f6cf043c4ee4beada99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b197019076f2f0842c9ae98f9719d456920602c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a499ea2d1a76fdff46d8c9283fa180d7221756f5">
+        <dex dex="C:\Users\Ahmet\Desktop\Valeron\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cd108cfc60d3b2abae9e40173d964f704dd43d99\classes.dex" />
+    </item>
+
+</items>

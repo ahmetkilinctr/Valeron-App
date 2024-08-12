@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBackground">
+
+    <ImageView
+        android:id="@+id/iwLogo"
+        android:layout_width="359dp"
+        android:layout_height="221dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/valeron_logo" />
+
+    <Button
+        android:id="@+id/btnShow"
+        android:layout_width="200dp"
+        android:layout_height="25dp"
+        android:layout_below="@+id/iwLogo"
+        android:layout_centerInParent="true"
+        android:background="@drawable/round_button"
+        android:text="Ürünleri Gör"
+        android:textColor="@android:color/white"
+        android:textSize="35px" />
+
+    <TextView
+        android:id="@+id/txtViewSite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:text="@string/txtSite"
+        android:textColorLink="@android:color/white"
+        android:textSize="35px" />
+
+</RelativeLayout>

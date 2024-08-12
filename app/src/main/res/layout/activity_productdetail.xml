@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#303030"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/lblProductSKULabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iwProductImg"
+        android:layout_centerInParent="true"
+        android:text="@string/productSKULabel"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lblProductSKU"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblProductSKULabel"
+        android:layout_centerInParent="true"
+        android:text="71000105"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/lblProductNameLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblProductSKU"
+        android:layout_centerInParent="true"
+        android:text="@string/productNameLabel"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lblProductName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblProductNameLabel"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/lblProductColorLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblProductName"
+        android:layout_centerInParent="true"
+        android:text="@string/productColorLabel"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lblProductColor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblProductColorLabel"
+        android:layout_centerInParent="true"
+        android:text="Lacivert"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/lblPriceLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblProductColor"
+        android:layout_centerInParent="true"
+        android:text="@string/productPriceLabel"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lblPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblPriceLabel"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/lblProductSizeDetailLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblPrice"
+        android:layout_centerInParent="true"
+        android:text="@string/productSizeDetailLabel"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lblProductSizeDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblProductSizeDetailLabel"
+        android:layout_centerInParent="true"
+        android:text="Bu ürün bir Valeron ürünüdür."
+        android:textAlignment="center"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/btnBuy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lblProductSizeDetail"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/white"
+        android:text="Satın Al"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/lblMoreProducts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnBuy"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/txtSiteProducts"
+        android:textColor="@android:color/white"
+        android:textColorLink="@android:color/white" />
+
+    <ImageView
+        android:id="@+id/iwProductImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/white" />
+</RelativeLayout>
